@@ -16,13 +16,13 @@
     },
     {
         "bugzilla": {
-            "assigned": 94,
-            "fixed": 86
+            "assigned": 96,
+            "fixed": 88
         },
         "components": {
             "Core :: DOM": 1,
             "Core :: JavaScript Engine": 1,
-            "Firefox :: Developer Tools": 13,
+            "Firefox :: Developer Tools": 14,
             "Firefox :: Developer Tools: Console": 11,
             "Firefox :: Developer Tools: Debugger": 4,
             "Firefox :: Developer Tools: Framework": 19,
@@ -30,7 +30,7 @@
             "Firefox :: Developer Tools: Inspector": 25,
             "Firefox :: Developer Tools: Netmonitor": 1,
             "Firefox :: Developer Tools: Scratchpad": 1,
-            "Firefox :: Developer Tools: Source Editor": 2,
+            "Firefox :: Developer Tools: Source Editor": 3,
             "Firefox :: Developer Tools: Style Editor": 3,
             "Firefox :: Downloads Panel": 3
         },
@@ -41,14 +41,15 @@
     },
     {
         "bugzilla": {
-            "assigned": 35,
-            "fixed": 23
+            "assigned": 37,
+            "fixed": 27
         },
         "components": {
             "Core :: DOM: Device Interfaces": 1,
             "Core :: Editor": 1,
             "Core :: Geolocation": 1,
-            "Core :: JavaScript Engine": 6,
+            "Core :: JavaScript Engine": 7,
+            "Core :: JavaScript Engine: JIT": 1,
             "Core :: Web Audio": 1,
             "Core :: XPConnect": 1,
             "Firefox :: Developer Tools: Console": 1,
@@ -59,6 +60,7 @@
             "Toolkit :: General": 1,
             "Toolkit :: OS.File": 4,
             "Toolkit :: Password Manager": 1,
+            "Toolkit :: Phishing Protection": 2,
             "Toolkit :: Video/Audio Controls": 1
         },
         "email": "sankha93@gmail.com",
@@ -91,7 +93,7 @@
     },
     {
         "bugzilla": {
-            "assigned": 6,
+            "assigned": 7,
             "fixed": 1
         },
         "components": {},
@@ -127,7 +129,7 @@
     },
     {
         "bugzilla": {
-            "assigned": 15,
+            "assigned": 16,
             "fixed": 8
         },
         "components": {
@@ -147,7 +149,7 @@
     },
     {
         "bugzilla": {
-            "assigned": 23,
+            "assigned": 22,
             "fixed": 17
         },
         "components": {
@@ -184,7 +186,7 @@
     {
         "bugzilla": {
             "assigned": 79,
-            "fixed": 59
+            "fixed": 63
         },
         "components": {},
         "email": "joshi_sunil@in.com",
@@ -270,8 +272,8 @@
     },
     {
         "bugzilla": {
-            "assigned": 13,
-            "fixed": 0
+            "assigned": 14,
+            "fixed": 1
         },
         "components": {},
         "email": "bharath_ves@hotmail.com",
@@ -292,8 +294,8 @@
     },
     {
         "bugzilla": {
-            "assigned": 661,
-            "fixed": 2
+            "assigned": 673,
+            "fixed": 3
         },
         "components": {},
         "email": "",
@@ -363,7 +365,7 @@
     },
     {
         "bugzilla": {
-            "assigned": 4,
+            "assigned": 6,
             "fixed": 0
         },
         "components": {},
@@ -375,7 +377,7 @@
     {
         "bugzilla": {
             "assigned": 29,
-            "fixed": 10
+            "fixed": 11
         },
         "components": {},
         "email": "",
@@ -494,7 +496,7 @@
     {
         "bugzilla": {
             "assigned": 1,
-            "fixed": 0
+            "fixed": 1
         },
         "components": {},
         "email": "",
@@ -515,8 +517,8 @@
     },
     {
         "bugzilla": {
-            "assigned": 3,
-            "fixed": 2
+            "assigned": 4,
+            "fixed": 3
         },
         "components": {},
         "email": "",
@@ -676,9 +678,13 @@
     {
         "bugzilla": {
             "assigned": 4,
-            "fixed": 0
+            "fixed": 3
         },
-        "components": {},
+        "components": {
+            "Firefox :: Theme": 1,
+            "Firefox :: Toolbars and Customization": 1,
+            "Mozilla QA :: Mozmill Tests": 1
+        },
         "email": "",
         "gravatar": "576a1523f23a75b1365f2f653c745797",
         "level": 0,
@@ -686,8 +692,8 @@
     },
     {
         "bugzilla": {
-            "assigned": 2,
-            "fixed": 0
+            "assigned": 8,
+            "fixed": 1
         },
         "components": {},
         "email": "",
@@ -752,7 +758,7 @@
     },
     {
         "bugzilla": {
-            "assigned": 4,
+            "assigned": 3,
             "fixed": 3
         },
         "components": {
@@ -768,7 +774,7 @@
     {
         "bugzilla": {
             "assigned": 1,
-            "fixed": 0
+            "fixed": 1
         },
         "components": {},
         "email": "",
@@ -808,8 +814,8 @@
     },
     {
         "bugzilla": {
-            "assigned": 46,
-            "fixed": 29
+            "assigned": 47,
+            "fixed": 32
         },
         "components": {
             "Firefox :: Developer Tools: Console": 1,
@@ -827,9 +833,9 @@
             "Thunderbird :: Folder and Message Lists": 1,
             "Thunderbird :: General": 1,
             "Thunderbird :: Mail Window Front End": 3,
-            "Thunderbird :: Message Compose Window": 2,
+            "Thunderbird :: Message Compose Window": 3,
             "Thunderbird :: Search": 1,
-            "Thunderbird :: Toolbars and Tabs": 3,
+            "Thunderbird :: Toolbars and Tabs": 5,
             "Toolkit :: Autocomplete": 1,
             "Toolkit :: Startup and Profile System": 1
         },
@@ -851,7 +857,7 @@
     },
     {
         "bugzilla": {
-            "assigned": 2,
+            "assigned": 3,
             "fixed": 1
         },
         "components": {},
@@ -892,5 +898,74 @@
         "gravatar": "d2022ca8e2121e82e723dd7e941d2123",
         "level": 0,
         "name": "Devdatta Akhawe"
+    },
+    {
+        "bugzilla": {
+            "assigned": 2,
+            "fixed": 1
+        },
+        "components": {},
+        "email": "",
+        "gravatar": "1c0ef0ef44ab4109cb17d1e095af68de",
+        "level": 0,
+        "name": "JacksonIsaac"
+    },
+    {
+        "bugzilla": {
+            "assigned": 1,
+            "fixed": 0
+        },
+        "components": {},
+        "email": "",
+        "gravatar": "3df372fd94882112e00b147ec9623eb7",
+        "level": 0,
+        "name": "ajitesh"
+    },
+    {
+        "bugzilla": {
+            "assigned": 1,
+            "fixed": 1
+        },
+        "components": {},
+        "email": "",
+        "gravatar": "5aecc37c76f4d8e7cea3351c6f182cbb",
+        "level": 0,
+        "name": "Hasil Sharma"
+    },
+    {
+        "bugzilla": {
+            "assigned": 4,
+            "fixed": 0
+        },
+        "components": {},
+        "email": "",
+        "gravatar": "fcfa2b4507e9106f8037e862c3a973ff",
+        "level": 0,
+        "name": "sumit4iit"
+    },
+    {
+        "bugzilla": {
+            "assigned": 3,
+            "fixed": 3
+        },
+        "components": {
+            "Firefox OS :: Gaia::UI Tests": 2,
+            "Testing :: Talos": 1
+        },
+        "email": "",
+        "gravatar": "ee8cec34a4b79e807c9678baa081d212",
+        "level": 0,
+        "name": "bitgeeky"
+    },
+    {
+        "bugzilla": {
+            "assigned": 1,
+            "fixed": 0
+        },
+        "components": {},
+        "email": "",
+        "gravatar": "4d9c91aa17cd21a0dd04c0e1207a1d3b",
+        "level": 0,
+        "name": "jp111"
     }
 ]
