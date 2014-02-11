@@ -16,8 +16,8 @@
     },
     {
         "bugzilla": {
-            "assigned": 100,
-            "fixed": 90
+            "assigned": 107,
+            "fixed": 95
         },
         "components": {
             "Core :: DOM": 1,
@@ -25,12 +25,12 @@
             "Firefox :: Developer Tools": 14,
             "Firefox :: Developer Tools: Console": 11,
             "Firefox :: Developer Tools: Debugger": 5,
-            "Firefox :: Developer Tools: Framework": 19,
+            "Firefox :: Developer Tools: Framework": 20,
             "Firefox :: Developer Tools: Graphic Commandline and Toolbar": 2,
             "Firefox :: Developer Tools: Inspector": 25,
-            "Firefox :: Developer Tools: Netmonitor": 1,
+            "Firefox :: Developer Tools: Netmonitor": 3,
             "Firefox :: Developer Tools: Scratchpad": 1,
-            "Firefox :: Developer Tools: Source Editor": 3,
+            "Firefox :: Developer Tools: Source Editor": 5,
             "Firefox :: Developer Tools: Style Editor": 4,
             "Firefox :: Downloads Panel": 3
         },
@@ -41,15 +41,15 @@
     },
     {
         "bugzilla": {
-            "assigned": 37,
-            "fixed": 27
+            "assigned": 39,
+            "fixed": 28
         },
         "components": {
             "Core :: DOM: Device Interfaces": 1,
             "Core :: Editor": 1,
             "Core :: Geolocation": 1,
             "Core :: JavaScript Engine": 7,
-            "Core :: JavaScript Engine: JIT": 1,
+            "Core :: JavaScript Engine: JIT": 2,
             "Core :: Web Audio": 1,
             "Core :: XPConnect": 1,
             "Firefox :: Developer Tools: Console": 1,
@@ -272,6 +272,23 @@
     },
     {
         "bugzilla": {
+            "assigned": 15,
+            "fixed": 7
+        },
+        "components": {
+            "Firefox :: Downloads Panel": 1,
+            "Firefox :: Preferences": 3,
+            "Firefox :: Toolbars and Customization": 1,
+            "Toolkit :: Password Manager": 1,
+            "Toolkit :: Preferences": 1
+        },
+        "email": "manishearth@gmail.com",
+        "gravatar": "a9863f99aae2de21261fc7003d194e1d",
+        "level": 1,
+        "name": "Manishearth"
+    },
+    {
+        "bugzilla": {
             "assigned": 14,
             "fixed": 1
         },
@@ -297,6 +314,22 @@
     },
     {
         "bugzilla": {
+            "assigned": 6,
+            "fixed": 4
+        },
+        "components": {
+            "Core :: XPCOM": 1,
+            "Thunderbird :: Mail Window Front End": 1,
+            "Thunderbird :: Message Compose Window": 1,
+            "Thunderbird :: Message Reader UI": 1
+        },
+        "email": "probaner23@gmail.com",
+        "gravatar": "fccaae7d8c34340d41508370ca291d0e",
+        "level": 0,
+        "name": "dorsatum"
+    },
+    {
+        "bugzilla": {
             "assigned": 4,
             "fixed": 0
         },
@@ -308,7 +341,7 @@
     },
     {
         "bugzilla": {
-            "assigned": 707,
+            "assigned": 714,
             "fixed": 5
         },
         "components": {},
@@ -423,7 +456,7 @@
     },
     {
         "bugzilla": {
-            "assigned": 1,
+            "assigned": 2,
             "fixed": 0
         },
         "components": {},
@@ -644,7 +677,7 @@
     },
     {
         "bugzilla": {
-            "assigned": 1,
+            "assigned": 2,
             "fixed": 0
         },
         "components": {},
@@ -710,7 +743,7 @@
     },
     {
         "bugzilla": {
-            "assigned": 9,
+            "assigned": 11,
             "fixed": 0
         },
         "components": {},
@@ -847,6 +880,17 @@
         },
         "components": {},
         "email": "",
+        "gravatar": "e34ceb6a0fb50fd1328917aaa91d852b",
+        "level": 0,
+        "name": "hellboy2k8,penguinraider"
+    },
+    {
+        "bugzilla": {
+            "assigned": 1,
+            "fixed": 0
+        },
+        "components": {},
+        "email": "",
         "gravatar": "5f875968c66effa2eee07e51bffaa6ee",
         "level": 0,
         "name": "01tonythomas"
@@ -883,6 +927,17 @@
     },
     {
         "bugzilla": {
+            "assigned": 1,
+            "fixed": 0
+        },
+        "components": {},
+        "email": "",
+        "gravatar": "bf3961e0ad473b1635546b56b9698e29",
+        "level": 0,
+        "name": "psbots"
+    },
+    {
+        "bugzilla": {
             "assigned": 53,
             "fixed": 49
         },
@@ -899,7 +954,7 @@
     },
     {
         "bugzilla": {
-            "assigned": 3,
+            "assigned": 4,
             "fixed": 0
         },
         "components": {},
@@ -910,8 +965,8 @@
     },
     {
         "bugzilla": {
-            "assigned": 57,
-            "fixed": 35
+            "assigned": 58,
+            "fixed": 36
         },
         "components": {
             "Firefox :: Developer Tools: Console": 1,
@@ -925,6 +980,7 @@
             "MailNews Core :: Networking: NNTP": 1,
             "MailNews Core :: Networking: POP": 1,
             "MailNews Core :: Search": 2,
+            "SeaMonkey :: MailNews: Message Display": 1,
             "Thunderbird :: Build Config": 1,
             "Thunderbird :: Folder and Message Lists": 1,
             "Thunderbird :: General": 1,
@@ -951,17 +1007,6 @@
         "gravatar": "e13a523c0bdeb6a36c67b75badfa718f",
         "level": 0,
         "name": "SSA"
-    },
-    {
-        "bugzilla": {
-            "assigned": 6,
-            "fixed": 3
-        },
-        "components": {},
-        "email": "",
-        "gravatar": "fccaae7d8c34340d41508370ca291d0e",
-        "level": 0,
-        "name": "dorsatum"
     },
     {
         "bugzilla": {
@@ -1067,7 +1112,7 @@
     },
     {
         "bugzilla": {
-            "assigned": 2,
+            "assigned": 3,
             "fixed": 0
         },
         "components": {},
@@ -1089,18 +1134,7 @@
     },
     {
         "bugzilla": {
-            "assigned": 5,
-            "fixed": 1
-        },
-        "components": {},
-        "email": "",
-        "gravatar": "35276ab7b99e54a6d859f34a8c271dc7",
-        "level": 0,
-        "name": "Eklavya Mirani"
-    },
-    {
-        "bugzilla": {
-            "assigned": 10,
+            "assigned": 9,
             "fixed": 3
         },
         "components": {},
@@ -1133,13 +1167,57 @@
     },
     {
         "bugzilla": {
-            "assigned": 1,
-            "fixed": 0
+            "assigned": 4,
+            "fixed": 1
         },
         "components": {},
         "email": "",
         "gravatar": "7a96b7c5307bb50adf8b8949d2bc055a",
         "level": 0,
         "name": "snig_wal"
+    },
+    {
+        "bugzilla": {
+            "assigned": 1,
+            "fixed": 1
+        },
+        "components": {},
+        "email": "",
+        "gravatar": "f329a44a4c701b795bb76ec0dca8c0e2",
+        "level": 0,
+        "name": "aakash"
+    },
+    {
+        "bugzilla": {
+            "assigned": 1,
+            "fixed": 1
+        },
+        "components": {},
+        "email": "",
+        "gravatar": "cd1a9489702ef537bf54202db94bcc55",
+        "level": 0,
+        "name": "anujagarwal464"
+    },
+    {
+        "bugzilla": {
+            "assigned": 4,
+            "fixed": 1
+        },
+        "components": {},
+        "email": "",
+        "gravatar": "08f15eceaf30f5f71cfadde6b305cd20",
+        "level": 0,
+        "name": ":kushagra"
+    },
+    {
+        "bugzilla": {
+            "assigned": 1,
+            "fixed": 0
+        },
+        "components": {},
+        "email": "",
+        "gravatar": "66f58053f604d9eb7ba8caa7b7252436",
+        "level": 0,
+        "name": "dweeprk"
     }
 ]
