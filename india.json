@@ -16,12 +16,13 @@
     },
     {
         "bugzilla": {
-            "assigned": 107,
-            "fixed": 95
+            "assigned": 108,
+            "fixed": 98
         },
         "components": {
             "Core :: DOM": 1,
             "Core :: JavaScript Engine": 1,
+            "Core :: Networking: HTTP": 1,
             "Firefox :: Developer Tools": 14,
             "Firefox :: Developer Tools: Console": 11,
             "Firefox :: Developer Tools: Debugger": 5,
@@ -31,8 +32,9 @@
             "Firefox :: Developer Tools: Netmonitor": 3,
             "Firefox :: Developer Tools: Scratchpad": 1,
             "Firefox :: Developer Tools: Source Editor": 5,
-            "Firefox :: Developer Tools: Style Editor": 4,
-            "Firefox :: Downloads Panel": 3
+            "Firefox :: Developer Tools: Style Editor": 5,
+            "Firefox :: Downloads Panel": 3,
+            "Toolkit :: Storage": 1
         },
         "email": "scrapmachines@gmail.com",
         "gravatar": "79dfe51799e3880bcb801a4f6cad59cd",
@@ -41,8 +43,8 @@
     },
     {
         "bugzilla": {
-            "assigned": 39,
-            "fixed": 28
+            "assigned": 41,
+            "fixed": 29
         },
         "components": {
             "Core :: DOM: Device Interfaces": 1,
@@ -50,6 +52,7 @@
             "Core :: Geolocation": 1,
             "Core :: JavaScript Engine": 7,
             "Core :: JavaScript Engine: JIT": 2,
+            "Core :: JavaScript: Standard Library": 1,
             "Core :: Web Audio": 1,
             "Core :: XPConnect": 1,
             "Firefox :: Developer Tools: Console": 1,
@@ -149,7 +152,7 @@
     },
     {
         "bugzilla": {
-            "assigned": 24,
+            "assigned": 25,
             "fixed": 17
         },
         "components": {
@@ -272,12 +275,12 @@
     },
     {
         "bugzilla": {
-            "assigned": 15,
-            "fixed": 7
+            "assigned": 18,
+            "fixed": 9
         },
         "components": {
             "Firefox :: Downloads Panel": 1,
-            "Firefox :: Preferences": 3,
+            "Firefox :: Preferences": 5,
             "Firefox :: Toolbars and Customization": 1,
             "Toolkit :: Password Manager": 1,
             "Toolkit :: Preferences": 1
@@ -315,10 +318,11 @@
     {
         "bugzilla": {
             "assigned": 6,
-            "fixed": 4
+            "fixed": 5
         },
         "components": {
             "Core :: XPCOM": 1,
+            "Firefox :: General": 1,
             "Thunderbird :: Mail Window Front End": 1,
             "Thunderbird :: Message Compose Window": 1,
             "Thunderbird :: Message Reader UI": 1
@@ -341,8 +345,8 @@
     },
     {
         "bugzilla": {
-            "assigned": 714,
-            "fixed": 5
+            "assigned": 720,
+            "fixed": 6
         },
         "components": {},
         "email": "",
@@ -564,7 +568,7 @@
     },
     {
         "bugzilla": {
-            "assigned": 1,
+            "assigned": 3,
             "fixed": 1
         },
         "components": {},
@@ -677,7 +681,7 @@
     },
     {
         "bugzilla": {
-            "assigned": 2,
+            "assigned": 1,
             "fixed": 0
         },
         "components": {},
@@ -710,7 +714,7 @@
     },
     {
         "bugzilla": {
-            "assigned": 24,
+            "assigned": 28,
             "fixed": 0
         },
         "components": {},
@@ -743,7 +747,7 @@
     },
     {
         "bugzilla": {
-            "assigned": 11,
+            "assigned": 12,
             "fixed": 0
         },
         "components": {},
@@ -839,17 +843,6 @@
     {
         "bugzilla": {
             "assigned": 1,
-            "fixed": 0
-        },
-        "components": {},
-        "email": "",
-        "gravatar": "0ce71d01a662da4178fe26b02d7f8d16",
-        "level": 0,
-        "name": "manu4543"
-    },
-    {
-        "bugzilla": {
-            "assigned": 1,
             "fixed": 1
         },
         "components": {},
@@ -938,14 +931,14 @@
     },
     {
         "bugzilla": {
-            "assigned": 53,
-            "fixed": 49
+            "assigned": 56,
+            "fixed": 50
         },
         "components": {
             "Chat Core :: General": 4,
             "Chat Core :: IRC": 4,
             "Instantbird :: Conversation": 30,
-            "Instantbird :: Other": 11
+            "Instantbird :: Other": 12
         },
         "email": "",
         "gravatar": "2f05d3e6c2a1fa346d47b0ac5bcab0f1",
@@ -965,8 +958,8 @@
     },
     {
         "bugzilla": {
-            "assigned": 58,
-            "fixed": 36
+            "assigned": 59,
+            "fixed": 38
         },
         "components": {
             "Firefox :: Developer Tools: Console": 1,
@@ -985,10 +978,10 @@
             "Thunderbird :: Folder and Message Lists": 1,
             "Thunderbird :: General": 1,
             "Thunderbird :: Mail Window Front End": 3,
-            "Thunderbird :: Message Compose Window": 4,
+            "Thunderbird :: Message Compose Window": 5,
             "Thunderbird :: Message Reader UI": 1,
             "Thunderbird :: Search": 1,
-            "Thunderbird :: Toolbars and Tabs": 5,
+            "Thunderbird :: Toolbars and Tabs": 6,
             "Toolkit :: Autocomplete": 1,
             "Toolkit :: Startup and Profile System": 1
         },
@@ -1021,8 +1014,8 @@
     },
     {
         "bugzilla": {
-            "assigned": 2,
-            "fixed": 1
+            "assigned": 4,
+            "fixed": 2
         },
         "components": {},
         "email": "",
@@ -1043,7 +1036,7 @@
     },
     {
         "bugzilla": {
-            "assigned": 2,
+            "assigned": 3,
             "fixed": 1
         },
         "components": {},
@@ -1090,7 +1083,7 @@
     },
     {
         "bugzilla": {
-            "assigned": 1,
+            "assigned": 2,
             "fixed": 1
         },
         "components": {},
@@ -1123,6 +1116,28 @@
     },
     {
         "bugzilla": {
+            "assigned": 1,
+            "fixed": 0
+        },
+        "components": {},
+        "email": "",
+        "gravatar": "8d7bae243785db3762bb43b0aa59598b",
+        "level": 0,
+        "name": "sid3129"
+    },
+    {
+        "bugzilla": {
+            "assigned": 1,
+            "fixed": 0
+        },
+        "components": {},
+        "email": "",
+        "gravatar": "b2d8c89c60dc26abdd3197543d4b7420",
+        "level": 0,
+        "name": "Himani Agrawal"
+    },
+    {
+        "bugzilla": {
             "assigned": 15,
             "fixed": 8
         },
@@ -1134,10 +1149,26 @@
     },
     {
         "bugzilla": {
-            "assigned": 9,
-            "fixed": 3
+            "assigned": 1,
+            "fixed": 0
         },
         "components": {},
+        "email": "",
+        "gravatar": "ebb97f6ecdaff07ce0dfddc512d117f0",
+        "level": 0,
+        "name": "droy"
+    },
+    {
+        "bugzilla": {
+            "assigned": 10,
+            "fixed": 4
+        },
+        "components": {
+            "Core :: Plug-ins": 1,
+            "Firefox :: Developer Tools: Debugger": 1,
+            "Firefox :: Developer Tools: Netmonitor": 1,
+            "Firefox :: Search": 1
+        },
         "email": "",
         "gravatar": "d279821c96bb49eeaef68b5456f42074",
         "level": 0,
@@ -1156,8 +1187,8 @@
     },
     {
         "bugzilla": {
-            "assigned": 1,
-            "fixed": 0
+            "assigned": 2,
+            "fixed": 1
         },
         "components": {},
         "email": "",
@@ -1189,14 +1220,25 @@
     },
     {
         "bugzilla": {
-            "assigned": 1,
-            "fixed": 1
+            "assigned": 3,
+            "fixed": 3
         },
         "components": {},
         "email": "",
         "gravatar": "cd1a9489702ef537bf54202db94bcc55",
         "level": 0,
         "name": "anujagarwal464"
+    },
+    {
+        "bugzilla": {
+            "assigned": 1,
+            "fixed": 0
+        },
+        "components": {},
+        "email": "",
+        "gravatar": "aca0fec75dbb958fe313d7f4c15bc10b",
+        "level": 0,
+        "name": "Binzzzz"
     },
     {
         "bugzilla": {
@@ -1219,5 +1261,93 @@
         "gravatar": "66f58053f604d9eb7ba8caa7b7252436",
         "level": 0,
         "name": "dweeprk"
+    },
+    {
+        "bugzilla": {
+            "assigned": 4,
+            "fixed": 1
+        },
+        "components": {},
+        "email": "",
+        "gravatar": "87d07270d6716c47db019139601e85ca",
+        "level": 0,
+        "name": "gargsms"
+    },
+    {
+        "bugzilla": {
+            "assigned": 6,
+            "fixed": 3
+        },
+        "components": {},
+        "email": "",
+        "gravatar": "47337120b05047c426b2f5da4ea0734f",
+        "level": 0,
+        "name": "samgtr"
+    },
+    {
+        "bugzilla": {
+            "assigned": 1,
+            "fixed": 0
+        },
+        "components": {},
+        "email": "",
+        "gravatar": "a36085b385c8cc5a07a240d322a05c38",
+        "level": 0,
+        "name": "pranavk"
+    },
+    {
+        "bugzilla": {
+            "assigned": 1,
+            "fixed": 1
+        },
+        "components": {},
+        "email": "",
+        "gravatar": "fff0328b2896a5087c1e2e9e52d453b5",
+        "level": 0,
+        "name": "Boopathi_k"
+    },
+    {
+        "bugzilla": {
+            "assigned": 1,
+            "fixed": 0
+        },
+        "components": {},
+        "email": "",
+        "gravatar": "6bae48e2decd6c161c45727ab09cd5ae",
+        "level": 0,
+        "name": "sant0sh"
+    },
+    {
+        "bugzilla": {
+            "assigned": 1,
+            "fixed": 1
+        },
+        "components": {},
+        "email": "",
+        "gravatar": "01fc17a126d716086063d889272b9787",
+        "level": 0,
+        "name": "thegyro"
+    },
+    {
+        "bugzilla": {
+            "assigned": 1,
+            "fixed": 0
+        },
+        "components": {},
+        "email": "",
+        "gravatar": "910a91ec4709ae36a5d0bb114cb6d2bd",
+        "level": 0,
+        "name": "igniting"
+    },
+    {
+        "bugzilla": {
+            "assigned": 8,
+            "fixed": 5
+        },
+        "components": {},
+        "email": "",
+        "gravatar": "77c1a0976f772f58fca1483321102c02",
+        "level": 0,
+        "name": "vaibhav1994"
     }
 ]
