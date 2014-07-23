@@ -1432,5 +1432,16 @@
         "gravatar": "6a34e40760c927b281eb2b3aeb2cdeae",
         "level": 0,
         "name": "Sukanta Pal"
+    },
+    {
+        "bugzilla": {
+            "assigned": 4,
+            "fixed": 2
+        },
+        "components": {},
+        "email": "trishul.goel@gmail.com",
+        "gravatar": "2ba2484d5fffccb3ad1f770e345e8334",
+        "level": 0,
+        "name": "Trishul Goel"
     }
 ]
